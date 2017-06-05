@@ -1,0 +1,6 @@
+C:\Users\mvaldron\Source\Repos\FileNameClippingTool\FileNameClippingTool\bin\Debug\FileNameClippingTool.exe.config
+C:\Users\mvaldron\Source\Repos\FileNameClippingTool\FileNameClippingTool\bin\Debug\FileNameClippingTool.exe
+C:\Users\mvaldron\Source\Repos\FileNameClippingTool\FileNameClippingTool\bin\Debug\FileNameClippingTool.pdb
+C:\Users\mvaldron\Source\Repos\FileNameClippingTool\FileNameClippingTool\obj\Debug\FileNameClippingTool.csprojResolveAssemblyReference.cache
+C:\Users\mvaldron\Source\Repos\FileNameClippingTool\FileNameClippingTool\obj\Debug\FileNameClippingTool.exe
+C:\Users\mvaldron\Source\Repos\FileNameClippingTool\FileNameClippingTool\obj\Debug\FileNameClippingTool.pdb
